@@ -1,0 +1,19 @@
+staci stranka o 4 html suboroch
+urcite chceme podtitul 2(about),1(hlavnu stranku)
+3(podstranku o hlavnej stranke detailnejsieinfo o urcitom produkte atd. )
+4(mohla by byt uplne uvodna prva stranka, alebo tak isto to bude potitul hlavenho titulu a bude obsahovat
+dalsie detailne info o stranke atd)
+
+CO CHCEM ABY OBSAHOVALA
+- pekny paralex pomocou css na prvej stranke
+-zvysne stranky budu obycajne pekne
+- cely projekt bude responzivny (450px,950px)
+-farby (cierna,modra,siva,svetla modra,tmava siva,biela)
+
+CO MUSI OBSAHOVAT
+-seo
+-opengraph techno
+
+
+
+//LAST EDIT 22.02.2018 15:28:50//
